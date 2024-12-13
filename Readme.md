@@ -1,5 +1,5 @@
 # Examen 1ª Evaluación
-## Manuel Carrera Pazó
+## Manuel Carrera Pazó.
 ---
 
 Explica a continación cada apartado del examen
