@@ -8,7 +8,7 @@ Con cada apartado realiza un commit diferente
 
 ### Diagrama de flujo
 ##
-![DAMAS](Damas.drawio)
+![DAMAS](https://app.diagrams.net/)
 
 
 
